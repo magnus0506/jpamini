@@ -43,7 +43,7 @@ public class JpaminiApplication {
             //Handle errors for Class.forName
             e.printStackTrace();
         }
-        System.out.println("Goodbye!");
+        System.out.println("Goodbye");
     }
 
 }
