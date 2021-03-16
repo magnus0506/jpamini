@@ -12,6 +12,9 @@ public class Person {
     @Column
     private String name;
 
+    @Column
+    private int age;
+
     public long getId() {
         return id;
     }
