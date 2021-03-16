@@ -9,7 +9,7 @@ import java.sql.*;
 public class JpaminiApplication {
     private static final String DB_URL = "jdbc:mysql://54.234.57.19:3306/mydb";
     private static final String USER = "root";
-    private static final String PASS = "22422606";
+    private static final String PASS = "password";
     private static Connection conn = null;
     public static void main(String[] args) {
         System.out.println("Before Application");
